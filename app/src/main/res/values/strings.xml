@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- home_screen strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="___time_string">9:41</string>
+	<string name="hello______christie_doe_string">Hello Christie Doe</string>
+	<string name="your_insights_string">Your Insights</string>
+	<string name="explore_more_string">Explore More</string>
+	<string name="scan_new_string">Scan new</string>
+	<string name="success_string">Success</string>
+	<string name="directory_string">Directory</string>
+	<string name="counterfeits_string">Counterfeits</string>
+	<string name="scanned_483_string">Scanned 483</string>
+	<string name="checkouts_8_string">Checkouts 8</string>
+	<string name="history_26_string">History 26</string>
+	<string name="counterfeited_32_string">Counterfeited 32</string>
+
+	<string name="lauren_s_string">Laurens</string>
+	<string name="orange_juice_string">Orange Juice</string>
+
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="your_cart______string">Your Cart </string>
+	<string name="skimmed_milk_string">Skimmed Milk</string>
+	<string name="aloe_vera_lotion_string">Aloe Vera Lotion</string>
+	<string name="___149_string"> 149</string>
+	<string name="___129_string"> 129</string>
+	<string name="___1249_string"> 1249</string>
+	<string name="___1_527_string"> 1,527</string>
+	<string name="baskin_s_string">Baskins</string>
+	<string name="marley_s_string">Marleys</string>
+	<string name="_2_string">2</string>
+	<string name="_2_ek1_string">2</string>
+	<string name="_2_ek2_string">2</string>
+	<string name="total_string">Total</string>
+	<string name="proceed_to_checkout_string">Proceed to checkout</string>
+</resources>
