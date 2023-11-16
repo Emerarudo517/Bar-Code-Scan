@@ -1,1 +1,1 @@
-# Bar-Code-Scan
+Made by Tran Hoang Quan
